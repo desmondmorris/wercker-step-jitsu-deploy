@@ -1,0 +1,10 @@
+name: jitsu-deploy
+version: 1.0.0
+description: Deploy node.js apps to Nodejitsu
+properties:
+  username:
+    type: string
+    required: true
+  password:
+    type: string
+    required: true
